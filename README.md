@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Zami
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on my Email : zorrozami@gmail.com
+- 👀 I’m interested in programnming with JavaScript and C++
+- 🌱 I’m currently learning Full Stack Developmen
+- 💞️ I’m looking to find entry level programmer roles/jobs
+- 📫 Reach me on my Email : zaminizam@gmail.com
 
-<!---
-Booolzay/Booolzay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
